@@ -1,4 +1,4 @@
-🇧🇷 **Portuguese version:** [Click here](https://github.com/Carlos-Eduardo-Sayao/Jogo_Caca_Tesouro/blob/main/README.md)
+🇧🇷 **Portuguese version:** [Clique aqui](https://github.com/Carlos-Eduardo-Sayao/Jogo_Caca_Tesouro/blob/main/README.md)
 
 # Treasure Hunt Game
 
