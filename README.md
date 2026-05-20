@@ -1,3 +1,5 @@
+🇺🇸 **English version:** [Click here](https://github.com/Carlos-Eduardo-Sayao/Jogo_Caca_Tesouro/blob/main/README_EN.md)
+
 # Jogo Caça ao Tesouro
 
 ## Descrição:
